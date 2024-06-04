@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         sb.ltn.fi Time Saved Column
 // @namespace    NMA
-// @version      1.6
+// @version      1.7
 // @description  Adds a "Time Saved" column to the video table on LTN site and populates it with the product of "Views" and "Duration" columns for each row. If category is 'poi_highlight', duration is calculated using the end time instead of the length.
 // @author       ChatGPT, NoMoreAngel
 // @match        https://sb.ltn.fi/*

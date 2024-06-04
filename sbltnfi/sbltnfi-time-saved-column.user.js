@@ -7,9 +7,7 @@
 // @match        https://sb.ltn.fi/*
 // @updateURL    https://github.com/NoMoreAngel/userscripts/raw/main/sbltnfi/sbltnfi-time-saved-column.user.js
 // @downloadURL  https://github.com/NoMoreAngel/userscripts/raw/main/sbltnfi/sbltnfi-time-saved-column.user.js
-// @icon         //https://sb.ltn.fi/static/browser/logo.png
-// @run-at       document-start
-// @grant        none
+// @icon         //
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==

@@ -8,7 +8,7 @@ This userscript adds a "Time Saved" column to the video table on the LTN site (s
 
 1. **Install a Userscript Manager**: Install a userscript manager browser extension such as Tampermonkey (for Chrome) or Greasemonkey (for Firefox).
    
-2. **Install the Userscript**: Click on the [userscript file](https://github.com/NoMoreAngel/userscripts/raw/main/sbltnfi/sbltnfi-time-saved-column.user.js), then your userscript manager should detect the script and prompt you to install it. Click on "Install" to add the script to your manager.
+2. **Install the Userscript**: Click on the [userscript file](https://github.com/DrQuackster/userscripts/raw/main/sbltnfi/sbltnfi-time-saved-column.user.js), then your userscript manager should detect the script and prompt you to install it. Click on "Install" to add the script to your manager.
 
 ## Usage
 
